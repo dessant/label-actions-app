@@ -2,6 +2,9 @@
 
 [![Version](https://img.shields.io/npm/v/label-actions.svg?colorB=007EC6)](https://www.npmjs.com/package/label-actions)
 
+> This project is in maintenance mode, migrating to the version
+built on GitHub Actions is recommended: https://github.com/dessant/label-actions
+
 Label Actions is a GitHub App built with [Probot](https://github.com/probot/probot)
 that performs actions when issues or pull requests are labeled or unlabeled.
 
