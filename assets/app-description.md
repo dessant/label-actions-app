@@ -27,7 +27,7 @@ The app performs certain actions when an issue or pull request is labeled or unl
 Create `.github/label-actions.yml` in the default branch to enable the app, or add it at the same file path to a repository named `.github`. Configure the app by editing the following template:
 
 ```yaml
-# Configuration for Label Actions - https://github.com/dessant/label-actions
+# Configuration for Label Actions - https://github.com/dessant/label-actions-app
 
 # Specify actions for issues and pull requests
 actions:
