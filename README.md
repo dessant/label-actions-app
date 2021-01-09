@@ -1,6 +1,5 @@
 # Label Actions
 
-[![Build Status](https://img.shields.io/travis/com/dessant/label-actions/master.svg)](https://travis-ci.com/dessant/label-actions)
 [![Version](https://img.shields.io/npm/v/label-actions.svg?colorB=007EC6)](https://www.npmjs.com/package/label-actions)
 
 Label Actions is a GitHub App built with [Probot](https://github.com/probot/probot)
@@ -98,7 +97,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2019 Armin Sebastian
+Copyright (c) 2019-2021 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.
