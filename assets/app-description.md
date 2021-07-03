@@ -1,9 +1,5 @@
 A GitHub App that performs actions when issues or pull requests are labeled or unlabeled.
 
-## Supporting the Project
-
-The continued development of Label Actions is made possible thanks to the support of awesome backers. If you'd like to join them, please consider contributing with [Patreon](https://armin.dev/go/patreon?pr=label-actions&src=app), [PayPal](https://armin.dev/go/paypal?pr=label-actions&src=app) or [Bitcoin](https://armin.dev/go/bitcoin?pr=label-actions&src=app).
-
 ## How It Works
 
 The app performs certain actions when an issue or pull request is labeled or unlabeled. No action is taken by default and the app must be configured. The following actions are supported:
@@ -16,7 +12,7 @@ The app performs certain actions when an issue or pull request is labeled or unl
 
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/label-actions)** for the intended repositories
+1. **[Install the GitHub App]()** for the intended repositories
 2. Create `.github/label-actions.yml` based on the template below
 3. Start labeling issues and pull requests
 

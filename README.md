@@ -2,20 +2,10 @@
 
 [![Version](https://img.shields.io/npm/v/label-actions.svg?colorB=007EC6)](https://www.npmjs.com/package/label-actions)
 
-> This project is in maintenance mode, migrating to the version
-built on GitHub Actions is recommended: https://github.com/dessant/label-actions
+> This project is no longer maintained, please migrate to [Label Actions](https://github.com/dessant/label-actions).
 
 Label Actions is a GitHub App built with [Probot](https://github.com/probot/probot)
 that performs actions when issues or pull requests are labeled or unlabeled.
-
-## Supporting the Project
-
-The continued development of Label Actions is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=label-actions&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=label-actions&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=label-actions&src=repo).
 
 ## How It Works
 
@@ -31,7 +21,7 @@ must be configured. The following actions are supported:
 
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/label-actions)**
+1. **[Install the GitHub App]()**
    for the intended repositories
 2. Create `.github/label-actions.yml` based on the template below
 3. Start labeling issues and pull requests
